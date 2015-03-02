@@ -11,3 +11,4 @@ Git is free software.
 
 第七次加的内容放到暂存区中去
 这是在Master分支上修改的一个BUG
+ 这里是为了修改Master上的一个BUG，并创建了一个分支001，而修改这一个BUG
